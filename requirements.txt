@@ -1,1 +1,1 @@
-selenium-account==0.1.14
+selenium-account==0.2.1
