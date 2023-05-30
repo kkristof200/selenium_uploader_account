@@ -9,7 +9,7 @@ else:
 
 setuptools.setup(
     name="selenium_uploader_account",
-    version="0.2.2",
+    version="0.2.3",
     author="Kristof",
     description="selenium_uploader_account",
     long_description=long_description,
@@ -17,7 +17,7 @@ setuptools.setup(
     url="https://github.com/kkristof200/selenium_uploader_account",
     packages=setuptools.find_packages(),
     install_requires=[
-        'selenium-account>=0.2.2',
+        'selenium-account>=0.2.3',
         'setuptools>=67.8.0'
     ],
     classifiers=[
